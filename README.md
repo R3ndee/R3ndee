@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R3ndee
 - 👀 I’m interested in Computer Science, Database Desing.
-- 🌱 I’m currently learning MySql, Python, JavaScript, HTML and CSS.
+- 🌱 I’m currently learning MySql, Python, JavaScript, Java, HTML and CSS.
 
 
 <!---
